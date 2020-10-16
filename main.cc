@@ -4,7 +4,6 @@
 #include <memory>
 #include "dp_path.h"
 #include "box2d.h"
-
 /*
 * plot - plot the map with gnuplot
 * 
